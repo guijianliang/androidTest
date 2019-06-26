@@ -1,0 +1,1 @@
+include ':app', ':fileapplication', ':sharedpreferencesapplication', ':litepaltest', ':runtimepermissiontest', ':contactstest', ':notificationtest', ':cameraalbumtest'
